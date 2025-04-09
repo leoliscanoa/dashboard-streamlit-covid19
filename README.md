@@ -37,8 +37,8 @@ Este proyecto es un **dashboard interactivo desarrollado con Streamlit** para mo
 
 1. Clona este repositorio en tu máquina local:
    ```bash
-   git clone https://github.com/usuario/proyecto-covid-dashboard.git
-   cd proyecto-covid-dashboard
+   git clone https://github.com/leoliscanoa/dashboard-streamlit-covid19.git
+   cd dashboard-streamlit-covid19
    ```
 
 2. Instala las dependencias requeridas:
